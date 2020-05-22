@@ -165,6 +165,7 @@ Set plugin to be ``libplugin_Autonomous_Navigation`` in ``Nova/build/nova.conf``
 ```
 ./bin/opengl Dendrite_Growth_F_3d_case1_Resolution_120x200x120/ 
 ```
+![](./pic/coral_reef.png)
 ### Hydrogel Dwelling
 Go to the build directory (*Nova/build/*), run the following command
 ```
